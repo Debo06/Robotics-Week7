@@ -1,0 +1,8 @@
+{"time": "2025-08-25T19:32:56.828514Z", "level": "INFO", "event": "job_start", "run_id": 1756150376}
+{"time": "2025-08-25T19:32:56.847669Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:56.934338Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:56.969282Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:57.011069Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:57.075085Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:57.142331Z", "level": "ERROR", "event": "api_timeout", "retry": 1, "run_id": 1756150376}
+{"time": "2025-08-25T19:32:57.152938Z", "level": "INFO", "event": "job_complete", "rows": 200, "run_id": 1756150376}
